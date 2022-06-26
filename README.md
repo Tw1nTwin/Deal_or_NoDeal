@@ -1,2 +1,0 @@
-# GitHub
-Hoffentlich funktioniert das
